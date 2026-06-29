@@ -17,7 +17,7 @@ This repository features an end-to-end sales analysis project designed to transf
     *   Utilized Power BI's built-in **Analytics and Forecasting** tools to generate the 15-day forward-looking projection line.
 
 ## Key Insights Discovered
-*(Tip: Replace these placeholders with 2 or 3 actual findings from your real dashboard data!)*
+
 *   **Insight 1:** Net Profit increased by [X%] during Q3, heavily driven by a spike in our top 3 hot-selling items.
 *   **Insight 2:** The 15-day sales forecast indicates a projected [increase/decrease] of [X%] in demand, suggesting a need to adjust stock levels for the upcoming weeks.
 *   **Insight 3:** While Net Sales were highest in the [Region Name] region, the highest Net Profit margin was actually found in [Region Name] due to lower operational costs.
